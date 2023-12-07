@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Purchases</string>
+    <string name="enter_item_name">Enter purchase name</string>
+    <string name="add_item">Add purchase</string>
+</resources>
